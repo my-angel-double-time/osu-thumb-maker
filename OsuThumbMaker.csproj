@@ -12,4 +12,10 @@
     <Folder Include="Resources\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="OsuParsers">
+      <HintPath>References\OsuParsers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
