@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ConfigManager\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
 </Project>
