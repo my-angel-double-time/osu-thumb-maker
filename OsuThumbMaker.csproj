@@ -5,10 +5,10 @@
     <TargetFramework>net7.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ConfigManager\" />
     <Folder Include="Resources\" />
   </ItemGroup>
 
