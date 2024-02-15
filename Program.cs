@@ -8,6 +8,8 @@
             // Validate if there's any previous settings defined in config.json
             // if not create a default one
             ConfigManager.Config.LoadConfig();
+            Console.Clear();
+            Console.WriteLine("Config Loaded!");
         }
     }
 }
